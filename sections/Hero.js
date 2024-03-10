@@ -14,7 +14,6 @@ const Hero = () => {
         <div className='container'>
           <TitleLogo title='creative' caption='7' className='logobg' />
           <h1 className='hero-title'>SANSKRITI'24</h1>
-
           <div className='sub-heading'>
             <TitleSm title='കാലാന്തരത്തിലെ ഇതിഹാസ കാവ്യം' /> 
           </div>
