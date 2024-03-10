@@ -16,9 +16,7 @@ const Hero = () => {
           <h1 className='hero-title'>SANSKRITI'24</h1>
 
           <div className='sub-heading'>
-            <TitleSm title='കാലാന്തരത്തിലെ' /> <span>.</span>
-            <TitleSm title='ഇതിഹാസ' /> <span>.</span>
-            <TitleSm title='കാവ്യം' />
+            <TitleSm title='കാലാന്തരത്തിലെ ഇതിഹാസ കാവ്യം' /> 
           </div>
         </div>
       </section>
