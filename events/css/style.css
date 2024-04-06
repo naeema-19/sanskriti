@@ -8278,20 +8278,20 @@ ul.children {
     border-radius: 50px; }
 
 .work-prgress-area {
-  padding: 150px 0;
+  padding: 50px 0;
   position: relative;
   overflow: hidden; }
   .work-prgress-area .circle-drop-shadow {
     right: -200px; }
   @media only screen and (min-width: 0px) and (max-width: 767px) {
     .work-prgress-area {
-      padding: 80px 0; } }
+      padding: 20px 0; } }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
     .work-prgress-area {
-      padding: 100px 0; } }
+      padding: 20px 0; } }
   @media only screen and (min-width: 992px) and (max-width: 1199px) {
     .work-prgress-area {
-      padding: 120px 0; } }
+      padding: 20px 0; } }
 
 .te-marquee-area {
   padding-top: 120px;
@@ -9518,6 +9518,9 @@ ul.children {
   white-space: nowrap;
   will-change: box-shadow,transform;
   font-size: 18px;
+}
+.button-29 a{
+  color: #fff;
 }
 
 .button-29:focus {
